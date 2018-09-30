@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WhatTheFlag</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="imageFor">
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="button_text">WTF?</string>
+
+</resources>
